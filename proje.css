@@ -19,7 +19,7 @@
     margin: 10px;
     max-width: 20%;
     min-width: 20%;
-    overflow: hidden;
+    overflow: relative;
     position: relative;
     text-align: center;
     width: 100%;
